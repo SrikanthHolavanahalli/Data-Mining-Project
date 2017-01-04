@@ -1,0 +1,13 @@
+Evaluation of cluster similarity for sequence, sequence+strucure and structure.
+
+To convert files into fatsa format, go to "fatsa" directory inside "code" directory. Run
+
+python convert_fatsa.py
+
+This will give two files. "protein_chain_fatsa.data" and "protein_fatsa.data" files. Copy these files to "code" directory.
+
+Go to "code" directory. Run
+
+python python create_auxilary.py.
+
+This program will output the Precision, accuracy, recall, corelation coefficient and f1 - measure. It also creates ROC curves.

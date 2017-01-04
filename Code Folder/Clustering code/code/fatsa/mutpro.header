@@ -1,0 +1,28 @@
+#########################################################################################
+#Mutation dataset (mupro.data) used to train MUpro.  
+#
+#Total number of mutations: 1615.
+#
+#Format: (for each entry)
+#	line 1: name (pdb code + chain id)
+#	line 2: length
+#	line 3: sequence
+#	line 4: secondary structure assigned by DSSP. (HGI-helix, EB-Strand, other-coil)
+#	line 5 and 6: binding partners of beta sheets (not used)
+#	line 7: solvent accessibility (SA) assigned by DSSP.
+#	line 8: x, y, z coordinates for Ca atom of each residue.
+#	line 9: mutation information (name, original residue, position, substitute residue,
+#	         SA, ph value, temperature, energy change(+:stabilize,-:distabilize)).   
+#       Notice: 
+#		lines 2-8: were derived from PDB (Berman et al., Nucleic Acid Res., 2000).
+#		line 9 was derived from S1615 (Capriotti et al., Bioinformatics, 2004).
+#
+#Author: Jianlin Cheng. (jianlinc@uci.edu)
+#Created date: August, 2004.
+#
+#Reference:
+#
+#  J. Cheng A. Randall, P. Baldi. Prediction of Protein Stability Changes for 
+#  Single Site Mutations Using Support Vector Machines. Proteins, vol. 62, no. 4, pp. 1125-1132, 2006.
+#
+############################################################################################

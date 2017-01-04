@@ -1,0 +1,16 @@
+output_sequence_protein_40     75.043
+output_sequence_protein_50     70.409
+output_sequence_protein_70     67.017
+output_sequence_protein_90     69.891
+output_sequence_protein_chain_40     72.396
+output_sequence_protein_chain_50     70.113
+output_sequence_protein_chain_70     71.616
+output_sequence_protein_chain_90     72.234
+output_structure_protein_40     73.933
+output_structure_protein_50     75.777
+output_structure_protein_70     74.835
+output_structure_protein_90     74.598
+output_structure_protein_chain_40     65.69
+output_structure_protein_chain_50     57.451
+output_structure_protein_chain_70     60.98
+output_structure_protein_chain_90     68.58
